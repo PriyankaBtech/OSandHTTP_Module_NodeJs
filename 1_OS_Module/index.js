@@ -20,9 +20,7 @@ console.log("Network Interface:" + os.networkInterfaces())
 
 console.log("OS Default Tempt Directory:" + os.tmpdir())
 
-
 console.log("Endianness:" + os.endianness())
-
 
 console.log("Hostname:" + os.hostname())
 
